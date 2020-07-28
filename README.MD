@@ -18,6 +18,7 @@ I learned C# while in college, try to understand will ya? :joy:
 
 ```
 using System;
+
 namespace Education{
  public class Education{
     var University;
