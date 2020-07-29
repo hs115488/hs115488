@@ -24,6 +24,7 @@ namespace Education{
     var University;
     var Degree;
     var Pending;
+    var Graduated;
   }
   
   class MastersDegree{
