@@ -1,5 +1,5 @@
 # Haresh Singh
-### Application Development Analyst
+### Java Development Consultant
 
 Contact Information:
 
